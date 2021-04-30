@@ -1,0 +1,37 @@
+.page {
+  padding: 20px;
+  margin-top: 90px;
+}
+body {
+  background-color: #f0f2f5;
+}
+.form-view {
+  background-color: #fff;
+  height: 380px;
+  width: 200px;
+  padding:20px;
+}
+
+.error{
+    background-color: #f0c5c1;
+    color: #691911;
+    padding: 12px;
+    margin-bottom: 2px;
+}
+.table-class{
+  margin:auto;
+  padding:10px;
+  margin-right:10px;
+  margin-left:10px;
+  background: white;
+}
+.upperclass{
+  text-transform: uppercase;
+}
+
+.info-message{
+  background-color: #b6effb;
+  color: #691911;
+  padding: 12px;
+  margin-bottom: 2px;
+}
